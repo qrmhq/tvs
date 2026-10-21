@@ -1,3 +1,8 @@
+pangleglobal.com, 5009567, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
+adcolony.com, 95136407bd0a7fae3dfefa5c43adc3b6, DIRECT, 1ad675c9de6b5176
+
 premiumads.net, 20130, DIRECT
 premiumads.com.br, 20130, DIRECT
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
@@ -314,11 +319,6 @@ yeahmobi.com, 5135347, Reseller
 media.net, 8CUO7P3WK, RESELLER
 App-stock.com,256917,RESELLER
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
-
-pangleglobal.com, 5009567, DIRECT
-pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
-
-adcolony.com, 95136407bd0a7fae3dfefa5c43adc3b6, DIRECT, 1ad675c9de6b5176
 
 mintegral.com, 36695, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
