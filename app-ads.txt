@@ -2239,6 +2239,8 @@ onetag.com, 8d4bbebb8fa701e, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 
+google.com, pub-3827208041450143, DIRECT, f08c47fec0942fa0
+
 yandex.com, 106757764, DIRECT
 improvedigital.com, 2031, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf8652, RESELLER
